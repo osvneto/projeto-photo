@@ -1,0 +1,46 @@
+.space-btn {
+  margin-top: 25px;
+}
+
+.space-text {
+  margin-top: 15px;
+}
+
+.space-title {
+  margin-top: 25px;
+}
+
+.gray-grid {
+  margin-top: 25px;
+  background-color: lightgray;
+}
+
+
+.margin-left {
+  margin-left: 50px;
+}
+
+.centralizar {
+  justify-content: center;
+}
+
+.ajuste {
+  margin-left: 15%;
+  font-size: larger;
+}
+
+
+.rodape {
+  display: flex;
+  justify-content: center;
+}
+
+.ajuste-texto {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+
+.img {
+  width: 100%;
+}
